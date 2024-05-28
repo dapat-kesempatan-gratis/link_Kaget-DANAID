@@ -1,0 +1,18 @@
+# Ignor all the files in vendor directory
+/vendor/
+
+# Ignore environment file containing sensitive information
+.env
+
+# Ignore Composer lock file (optional)
+composer.lock
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
